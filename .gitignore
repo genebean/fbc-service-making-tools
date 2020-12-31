@@ -1,0 +1,9 @@
+# ignore all folders by default
+*/
+
+# ignore settings files by default
+settings*
+!settings-sample.ini
+
+# junk files
+.DS_Store
