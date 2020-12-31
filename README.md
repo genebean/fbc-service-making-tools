@@ -5,7 +5,7 @@ The tools in this repo are used to simplify processes used while having services
 ## Assumptions
 
 - subfolders are named in YYYY-MM-DD fashion
-- Each subfolder contains a folder named output. That folder has a file named Worship YYYY-MM-DD.mp4
+- Each subfolder contains a folder named output. That folder has a file named `Worship YYYY-MM-DD.mp4`
 
 ## Getting audio to Kiss 102.7
 
