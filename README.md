@@ -1,6 +1,12 @@
 # FBC Service Making tools
 
 The tools in this repo are used to simplify processes used while having services online.
+
+## Assumptions
+
+- subfolders are named in YYYY-MM-DD fashion
+- Each subfolder contains a folder named output. That folder has a file named Worship YYYY-MM-DD.mp4
+
 ## Getting audio to Kiss 102.7
 
 1. Run `./create-mp3.sh` and pass it the folder with this weeks bits in it
